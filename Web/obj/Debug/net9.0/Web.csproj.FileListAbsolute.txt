@@ -101,3 +101,4 @@
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Web/obj/Debug/net9.0/Web.pdb
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Web/obj/Debug/net9.0/Web.genruntimeconfig.cache
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Web/obj/Debug/net9.0/ref/Web.dll
+/media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Web/obj/Debug/net9.0/Web.sourcelink.json

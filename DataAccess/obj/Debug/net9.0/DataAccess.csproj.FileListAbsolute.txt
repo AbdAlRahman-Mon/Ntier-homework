@@ -9,3 +9,4 @@
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/DataAccess/obj/Debug/net9.0/refint/DataAccess.dll
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/DataAccess/obj/Debug/net9.0/DataAccess.pdb
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/DataAccess/obj/Debug/net9.0/ref/DataAccess.dll
+/media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/DataAccess/obj/Debug/net9.0/DataAccess.sourcelink.json

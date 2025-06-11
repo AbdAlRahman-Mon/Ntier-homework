@@ -13,3 +13,4 @@
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Business/obj/Debug/net9.0/refint/Business.dll
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Business/obj/Debug/net9.0/Business.pdb
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Business/obj/Debug/net9.0/ref/Business.dll
+/media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/ToDoSolution_SV/Business/obj/Debug/net9.0/Business.sourcelink.json
